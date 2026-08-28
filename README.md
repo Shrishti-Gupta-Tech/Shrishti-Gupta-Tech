@@ -252,10 +252,4 @@ Working on backend services, distributed data processing, enterprise application
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishtiGupta&layout=compact&hide_border=true" />
-</p>
-
----
