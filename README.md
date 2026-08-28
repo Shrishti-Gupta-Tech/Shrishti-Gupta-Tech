@@ -12,6 +12,7 @@
 <a href="mailto:gupta.shrishti.0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/ShrishtiGupta_100/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
+
 <br/><br/>
 
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/SAP_2011_logo.svg" alt="SAP Labs" height="42"/>
@@ -130,13 +131,13 @@ Web application that generates professional, AI-scored resumes using LLMs.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shrishti-Gupta-Tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrishti-Gupta-Tech&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishti-Gupta-Tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrishti-Gupta-Tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <br/>
@@ -164,6 +165,9 @@ Web application that generates professional, AI-scored resumes using LLMs.
 
 🏆 SAP appreciation awards for project delivery & ownership &nbsp;|&nbsp; 🤖 Innovation Days Bangalore — multi-agent incident-reduction solution
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shrishti-Gupta-Tech&color=0FAAFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
 
