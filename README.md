@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,100:1B2A4A&height=220&section=header&text=Hi%20There!%20I'm%20Shrishti%20Gupta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20SAP%20Labs%20|%20Backend%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,100:1B2A4A&height=220&section=header&text=Hi%20There%20I%20am%20Shrishti%20Gupta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20at%20SAP%20Labs%20-%20Backend%20and%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/shrishtigupta111/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0FAAFF&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices;Apache+Kafka+%7C+Apache+Spark+%7C+Distributed+Systems;Building+scalable+backend+systems+at+SAP+Labs;Currently+pursuing+M.Tech+%40+BITS+Pilani" alt="Typing SVG" />
@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/shrishtigupta111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gupta.shrishti.0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/ShrishtiGupta_100/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="tel:+917879144133"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -46,14 +45,13 @@ I'm a backend engineer who likes making systems handle more than they used to �
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,graphql,hibernate,kafka" />
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=spring,graphql,hibernate,kafka,spark" />
 
 <br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=angular,ts" />
+<img src="https://skillicons.dev/icons?i=angular,ts,react,tailwind" />
 <img src="https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge" height="48"/>
 <img src="https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge" height="48"/>
 
@@ -73,9 +71,8 @@ I'm a backend engineer who likes making systems handle more than they used to �
 
 **Testing**
 <br/>
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=java&logoColor=black" height="48"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Mockito-DF352B?style=for-the-badge&logo=java&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="48"/>
 
 </div>
@@ -167,9 +164,10 @@ Web application that generates professional, AI-scored resumes using LLMs.
 
 🏆 SAP appreciation awards for project delivery & ownership &nbsp;|&nbsp; 🤖 Innovation Days Bangalore — multi-agent incident-reduction solution
 
-<br/>
 
+<br/><br/>
 
+<i>⭐️ Thanks for stopping by — always open to connecting on backend engineering, distributed systems, and AI-powered products!</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:0FAAFF&height=100&section=footer" width="100%"/>
 
