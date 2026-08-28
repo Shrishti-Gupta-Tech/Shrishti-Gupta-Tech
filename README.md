@@ -1,178 +1,261 @@
-<div align="center">
+# 👋 Hi, I'm Shrishti Gupta
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,100:1B2A4A&height=220&section=header&text=Hi%20There%20I%20am%20Shrishti%20Gupta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20at%20SAP%20Labs%20-%20Backend%20and%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" width="110" alt="SAP Logo"/>
+</p>
 
-<a href="https://www.linkedin.com/in/shrishtigupta111/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0FAAFF&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices;Apache+Kafka+%7C+Apache+Spark+%7C+Distributed+Systems;Building+scalable+backend+systems+at+SAP+Labs;Currently+pursuing+M.Tech+%40+BITS+Pilani" alt="Typing SVG" />
-</a>
+<h3 align="center">
+  Software Engineer @ SAP Labs
+</h3>
 
-<br/>
+<p align="center">
+  <b>Backend Engineering • Distributed Systems • Cloud • Generative AI</b>
+</p>
 
-<a href="https://www.linkedin.com/in/shrishtigupta111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gupta.shrishti.0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/ShrishtiGupta_100/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<p align="center">
+  Java · Spring Boot · Microservices · Apache Kafka · Apache Spark
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shrishtigupta111/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gupta.shrishti.0111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/ShrishtiGupta_100/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-<br/><br/>
+---
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/SAP_2011_logo.svg" alt="SAP Labs" height="42"/>
+## 🚀 About Me
 
-</div>
+I'm a **Software Engineer at SAP Labs** focused on building reliable, scalable, and distributed backend systems.
 
-<br/>
+Most of my work revolves around **Java, Spring Boot, Microservices, Apache Kafka, Apache Spark**, and enterprise applications built with **SAP Fiori and OData V4**.
 
-## 🧑‍💻 About Me
+I'm particularly interested in building systems that are:
 
-I'm a backend engineer who likes making systems handle more than they used to — whether that's doubling a data pipeline's throughput or shaving debugging time down with better observability. Most of my day-to-day lives in **Java and Spring Boot**, working on **Kafka/Spark-driven data pipelines** and **OData V4-based Fiori applications** at SAP Labs.
+- ⚙️ **Scalable**
+- 🔄 **Distributed**
+- 📡 **Event-driven**
+- ☁️ **Cloud-native**
+- 🛡️ **Fault-tolerant**
+- 🤖 **AI-powered**
 
-- 🧩 I care about systems that stay reliable under scale — distributed, event-driven, cloud-native by default
-- 📚 Currently doing an M.Tech in Software Engineering at BITS Pilani alongside full-time work — trading weekends for deeper CS fundamentals
-- 🤖 Lately digging into AI-powered backends — RAG, LangChain4j, and wiring LLMs into real services rather than just demos
-- 🗣️ Outside of code, I write internal newsletters at SAP and enjoy explaining technical work to non-technical audiences
+### Currently Exploring
 
-📫 **Let's talk backend systems, distributed architecture, or AI engineering** — gupta.shrishti.0111@gmail.com
+- 🧩 System Design & Distributed Systems
+- ☁️ Cloud-Native Architecture
+- 🔄 Event-Driven Architecture
+- 📊 Kafka & Large-Scale Data Processing
+- 🤖 Generative AI & RAG
+- 🧠 LangChain4j & Spring AI
+- 🚀 LLM-powered production systems
 
-<br/>
+I also write internal newsletters at SAP, translating technical concepts and engineering work for non-technical audiences.
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+# 💻 Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+## ☕ Languages
 
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Languages"/>
+</p>
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,graphql,hibernate,kafka,spark" />
+---
 
-<br/><br/>
+## ⚙️ Backend & Distributed Systems
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=angular,ts,react,tailwind" />
-<img src="https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge" height="48"/>
-<img src="https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge" height="48"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,graphql,hibernate,kafka,spark" alt="Backend Technologies"/>
+</p>
 
-<br/><br/>
+**Technologies**
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+`Java` `Spring Boot` `Spring MVC` `REST APIs` `GraphQL`
 
-<br/><br/>
+`Hibernate` `JPA` `Microservices` `Apache Kafka` `Apache Spark`
 
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,sonarqube" />
+---
 
-<br/><br/>
+## 🎨 Frontend
 
-**Testing**
-<br/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Mockito-DF352B?style=for-the-badge&logo=java&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="48"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge" alt="SAP UI5"/>
+  <img src="https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge" alt="SAP Fiori"/>
+</p>
 
-</div>
+---
 
-<br/>
+## 🗄️ Databases
 
-## 🚀 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases"/>
+</p>
 
-<div align="center">
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## ☁️ Cloud & DevOps
 
-### 🔹 [Service Management Platform](#)
-Cloud-native, multi-tenant service management platform with strong tenant isolation and RBAC-based access control.
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git" alt="Cloud and DevOps"/>
+</p>
 
-- Designed REST & GraphQL APIs for catalog, billing, and notification services with full OpenAPI docs
-- Deployed on **AWS EC2, Docker & Kubernetes** with JWT-based security
+**Tools**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+`AWS` `Docker` `Kubernetes` `Jenkins` `Git` `SonarQube`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🔹 [Resume Maker using Llama 3.2 (AI)](#)
-Web application that generates professional, AI-scored resumes using LLMs.
+## 🤖 AI & LLM
 
-- Spring Boot backend + interactive multi-step React.js frontend
-- Integrated an AI model for automated resume generation with multiple templates & scoring
+<p>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+---
 
-</td>
-</tr>
-</table>
+## 🧪 Testing & Code Quality
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-DF352B?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+</p>
 
-<br/>
+---
 
-## 💼 Experience Highlights @ SAP Labs
+# 🏢 Professional Experience
 
-<img align="right" src="https://commons.wikimedia.org/wiki/Special:FilePath/SAP_2011_logo.svg" width="120"/>
+## SAP Labs — Software Engineer
 
-- ⚙️ Redesigned a Spring Boot microservice integrated with Apache Spark, **doubling batch processing capacity (5K → 10K records)**
-- 🔁 Built an automated retry framework with backoff strategy, improving fault tolerance in distributed pipelines
-- 📊 Implemented centralized logging & monitoring with log4j, **cutting debugging time by 40%**
-- ✅ Raised SonarQube code coverage to **80%+** with JUnit & Mockito test suites
-- 🖥️ Migrated a core UI data-table to SAP FNGX, boosting SUS score from **52% → 92%**
-- 🐞 Diagnosed and resolved production incidents in SAP Fiori Elements via OData V4 `$batch` analysis
+Working on backend services, distributed data processing, enterprise applications, and SAP Fiori/OData-based solutions.
 
-<br clear="right"/>
+### 📈 Engineering Impact
 
-## 📊 GitHub Stats
+| 🚀 Area | 📊 Impact |
+|---|---|
+| Apache Spark Optimization | **2× batch processing capacity** — 5K → 10K records |
+| Retry Framework | Improved fault tolerance using automated retries + backoff |
+| Centralized Logging | **40% reduction** in debugging time |
+| Automated Testing | **80%+ SonarQube coverage** |
+| SAP FNGX Migration | SUS score improved **52 → 92** |
+| Production Debugging | Resolved OData V4 `$batch` issues in SAP Fiori Elements |
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shrishti-Gupta-Tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrishti-Gupta-Tech&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+### 🔧 Key Contributions
 
-<br/>
+- 🚀 Redesigned a **Spring Boot microservice integrated with Apache Spark**, doubling batch processing capacity from **5K → 10K records**
+- 🔁 Built an **automated retry framework with configurable backoff strategies** for distributed pipelines
+- 🔍 Implemented **centralized logging and monitoring using Log4j**, reducing debugging time by **40%**
+- 🧪 Increased **SonarQube code coverage to 80%+** using JUnit 5 and Mockito
+- 🎨 Migrated a core UI data table to **SAP FNGX**, improving SUS score from **52 → 92**
+- 🛠️ Diagnosed and resolved production incidents in **SAP Fiori Elements** using OData V4 `$batch` analysis
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishti-Gupta-Tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrishti-Gupta-Tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
+---
 
-<br/>
+# 🚀 Featured Projects
 
-## 🎓 Education
+## ☁️ Service Management Platform
+
+> A cloud-native, multi-tenant service management platform designed around scalability, security, and tenant isolation.
+
+### ✨ Highlights
+
+- Designed **REST + GraphQL APIs** for catalog, billing, and notification services
+- Implemented **JWT authentication and authorization**
+- Built **RBAC-based access control**
+- Designed a **multi-tenant architecture with tenant isolation**
+- Created complete **OpenAPI documentation**
+- Containerized services using **Docker**
+- Deployed applications using **AWS EC2 + Kubernetes**
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 Resume Maker — Llama 3.2
+
+> AI-powered resume generation and evaluation platform using Large Language Models.
+
+### ✨ Highlights
+
+- Built a **Spring Boot backend**
+- Developed an interactive **multi-step React.js frontend**
+- Integrated **Llama 3.2** for AI-powered resume generation
+- Implemented automated resume scoring
+- Added multiple professional resume templates
+- Integrated **Spring AI** for LLM interaction
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+---
+
+# 🎓 Education
 
 | Degree | Institution | Duration |
 |---|---|---|
-| 🎓 M.Tech, Software Engineering | BITS Pilani (WILP) | Aug 2024 – Jul 2026 |
-| 🎓 B.Tech, Computer Science (Cyber Security) | Lakshmi Narain College of Technology and Science, Bhopal | Aug 2020 – Jul 2024 |
+| 🎓 **M.Tech — Software Engineering** | BITS Pilani (WILP) | Aug 2024 – Jul 2026 |
+| 🎓 **B.Tech — Computer Science (Cyber Security)** | Lakshmi Narain College of Technology and Science, Bhopal | Aug 2020 – Jul 2024 |
 
-## 🏅 Certifications
+---
 
-<div align="center">
-<img src="https://img.shields.io/badge/Cisco-CCNA_v7-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/CCSK-v4.1-4B8BBE?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</div>
+# 📜 Certifications
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Cisco-CCNA_v7-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCSK-v4.1-4B8BBE?style=for-the-badge"/>
+</p>
 
-<div align="center">
+---
 
-### 🌱 Fun Facts
+# 🏆 Recognition
 
-🏆 SAP appreciation awards for project delivery & ownership &nbsp;|&nbsp; 🤖 Innovation Days Bangalore — multi-agent incident-reduction solution
+- 🏅 **SAP Appreciation Awards** for project delivery and ownership
+- 💡 **Innovation Days — Bangalore:** developed a multi-agent solution focused on incident reduction
 
-<br/>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shrishti-Gupta-Tech&color=0FAAFF&style=for-the-badge&label=PROFILE+VIEWS)
+# 📊 GitHub Stats
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrishtiGupta&show_icons=true&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrishtiGupta&hide_border=true" height="170"/>
+</p>
 
-<i>⭐️ Thanks for stopping by — always open to connecting on backend engineering, distributed systems, and AI-powered products!</i>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:0FAAFF&height=100&section=footer" width="100%"/>
+# 💻 Most Used Languages
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishtiGupta&layout=compact&hide_border=true" />
+</p>
+
+---
